@@ -1,4 +1,4 @@
-# Movies
+# 📽 Movies
 
 This is a simple app that allows you to see the movies that are currently playing in theaters. It also allows you to see some of the details of a movie and review it.
 
